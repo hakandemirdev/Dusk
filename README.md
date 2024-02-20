@@ -1,5 +1,5 @@
 # Dusk
-Dusk Testnet
+
 <img src="https://github.com/hakandemirdev/Dusk/blob/d33e021854f35b38bb1b835c18f97e7973ce4eb6/dusk-network2.jpg" width="auto">
 
 Öncelikle işletim sistemimizi güncelliyoruz.Ubuntu 22.04.3 LTS üzerine kurdum.
